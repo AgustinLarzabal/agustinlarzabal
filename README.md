@@ -4,9 +4,15 @@ Self-taught front-end developer from Argentina, currently living in Madrid, Spai
 
 ## Connect with me
 
-<a href="https://twitter.com/RareGaZz"><img src="https://icongr.am/fontawesome/twitter.svg?size=32&color=6e7681" alt="Agustín Larzábal - Twitter" style="margin-right: 20px" /></a>
-<a href="https://www.linkedin.com/in/agustinlarzabal/"><img src="https://icongr.am/fontawesome/linkedin.svg?size=32&color=6e7681" alt="Agustín Larzábal - LinkedIn" style="margin-right: 20px" /></a>
-<a href="https://www.instagram.com/agustinlarzabal/"><img src="https://icongr.am/fontawesome/instagram.svg?size=32&color=6e7681" alt="Agustín Larzábal - Instagram" style="margin-right: 20px" /></a>
+<a href="https://twitter.com/RareGaZz">
+<img src="https://icongr.am/fontawesome/twitter.svg?size=32&color=6e7681" alt="Agustín Larzábal - Twitter" style="margin-right: 20px" />
+</a>
+<a href="https://www.linkedin.com/in/agustinlarzabal/">
+<img src="https://icongr.am/fontawesome/linkedin.svg?size=32&color=6e7681" alt="Agustín Larzábal - LinkedIn" style="margin-right: 20px" />
+</a>
+<a href="https://www.instagram.com/agustinlarzabal/">
+<img src="https://icongr.am/fontawesome/instagram.svg?size=32&color=6e7681" alt="Agustín Larzábal - Instagram" style="margin-right: 20px" />
+</a>
 
 ## Tech Stack
 
